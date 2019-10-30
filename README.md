@@ -6,6 +6,7 @@
 
 ## Term Project
 
+### 2D
 ![](termproject/project1/temp.gif)
 
 <pre><a href="https://palecosmos.github.io/2019_Graphics_Exercises/termproject/project1/main.html">https://palecosmos.github.io/2019_Graphics_Exercises/termproject/project1/main.html</a></pre>
