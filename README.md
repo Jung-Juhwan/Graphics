@@ -12,4 +12,4 @@
 
 ### 3D
 <pre><a href="https://palecosmos.github.io/2019_Graphics_Term_Projects/project2/Main.html">https://palecosmos.github.io/2019_Graphics_Term_Projects/project2/Main.html</a></pre>
-[자세히](https://github.com/PaleCosmos/2019_Graphics_Term_Projects/tree/master/project2)
+클릭 -> [자세히](https://github.com/PaleCosmos/2019_Graphics_Term_Projects/tree/master/project2)
