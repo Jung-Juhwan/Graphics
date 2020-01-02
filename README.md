@@ -4,7 +4,7 @@
 - **Computer graphics using WebGL**
 
 
-## Term Project
+# Term Project
 
 ### 2D (풍차)
 <pre><a href="https://palecosmos.github.io/2019_Graphics_Term_Projects/project1/main.html">https://palecosmos.github.io/2019_Graphics_Term_Projects/project1/main.html</a></pre>
